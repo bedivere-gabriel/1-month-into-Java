@@ -1,2 +1,2 @@
-# 1-month-into-Java
+# First Day into Java
 Simple Java programs made within 1 day into Java
